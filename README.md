@@ -43,7 +43,7 @@
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/neel-dalvi-73b204406/*
 - Gmail: *dalvineel2005@gmail.com*
-
+- Portfolio: *https://dalvineel2005.github.io/Portfolio/*
 ---
 
 <div align="center">
