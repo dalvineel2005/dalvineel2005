@@ -73,7 +73,7 @@ Data
 Stock market data services
 
 <p align="center">
-<a href="https://github.com/dalvineel2005/Stock-management-and-trading-website-built-using-HTML-CSS-and-JavaScript.">
+<a href="https://arayxs.vercel.app/">
 <img src="https://img.shields.io/badge/VIEW%20CODE-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a" alt="View code"/>
 </a>
 </p>
@@ -115,7 +115,7 @@ Architecture
 REST APIs, MVC
 
 <p align="center">
-<a href="https://github.com/dalvineel2005/url-shortener">
+<a href="short-url-umber-three.vercel.app">
 <img src="https://img.shields.io/badge/VIEW%20CODE-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a" alt="View code"/>
 </a>
 </p>
