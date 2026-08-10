@@ -50,7 +50,7 @@ const neelDalvi = {
 
 <h3 align="center">📈 Stock Management & Trading</h3>
 
-<a href="https://github.com/dalvineel2005/Stock-management-and-trading-website-built-using-HTML-CSS-and-JavaScript.">
+<a href="https://arayxs.vercel.app/">
 <img src="https://opengraph.githubassets.com/1/dalvineel2005/Stock-management-and-trading-website-built-using-HTML-CSS-and-JavaScript." width="100%" alt="Stock Management and Trading project preview"/>
 </a>
 
