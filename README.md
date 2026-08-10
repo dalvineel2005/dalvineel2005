@@ -84,7 +84,7 @@ Stock market data services
 
 <h3 align="center">🔗 URL Shortener</h3>
 
-<a href="https://github.com/dalvineel2005/url-shortener">
+<a href="short-url-umber-three.vercel.app">
 <img src="https://opengraph.githubassets.com/1/dalvineel2005/url-shortener" width="100%" alt="URL Shortener project preview"/>
 </a>
 
