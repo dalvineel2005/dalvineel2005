@@ -168,12 +168,6 @@ REST APIs, MVC
 <img src="https://streak-stats.demolab.com?user=dalvineel2005&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc" alt="GitHub streak"/>
 </div>
 
-🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://trophygh.kolioaris.xyz/?username=dalvineel2005&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" alt="GitHub trophies"/>
-</div>
-
 📈 Contribution Activity
 
 <div align="center">
