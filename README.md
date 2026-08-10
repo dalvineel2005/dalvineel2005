@@ -31,7 +31,7 @@ I'm an IT graduate and Full-Stack (MERN) Developer with hands-on experience buil
 
 <div align="center">
 
-const neelDalvi = {
+ NeelDalvi = {
   title: "Full-Stack (MERN) Developer | Data Analytics Enthusiast",
   stack: ["JavaScript", "Python", "SQL", "React.js", "Node.js", "Express.js", "MongoDB", "MySQL", "EJS"],
   launchedProjects: ["Stock Management and Trading Dashboard", "URL Shortener Web Application"],
@@ -157,8 +157,8 @@ REST APIs, MVC
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dalvineel2005&show_icons=true&include_all_commits=true&count_private=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc" height="180" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalvineel2005&layout=compact&langs_count=8&theme=nord&title_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc" height="180" alt="Top languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=dalvineel2005&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc" height="180" alt="GitHub statistics"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dalvineel2005&layout=compact&langs_count=8&theme=nord&title_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc" height="180" alt="Top languages"/>
 
 </div>
 
@@ -171,7 +171,7 @@ REST APIs, MVC
 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dalvineel2005&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" alt="GitHub trophies"/>
+<img src="https://trophygh.kolioaris.xyz/?username=dalvineel2005&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" alt="GitHub trophies"/>
 </div>
 
 📈 Contribution Activity
