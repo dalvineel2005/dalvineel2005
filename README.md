@@ -15,7 +15,7 @@
 
 👨‍💻 Who I Am
 
-const neelDalvi = {
+const NeelDalvi = {
   title: "Full-Stack (MERN) Developer | Data Analytics Enthusiast",
   stack: [
     "JavaScript",
@@ -44,7 +44,7 @@ const neelDalvi = {
 
 📈 Stock Management and Trading Dashboard
 
-<a href="https://github.com/dalvineel2005/Stock-management-and-trading-website-built-using-HTML-CSS-and-JavaScript">
+<a href="https://arayxs.vercel.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dalvineel2005&repo=Stock-management-and-trading-website-built-using-HTML-CSS-and-JavaScript&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc" alt="Stock Management and Trading Dashboard"/>
 </a>
 
