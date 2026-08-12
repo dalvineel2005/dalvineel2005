@@ -84,7 +84,7 @@ Stock market data services
 
 <h3 align="center">🔗 URL Shortener</h3>
 
-<a href="https://short-url-umber-three.vercel.app/">
+<a href="https://short-url-one-beta.vercel.app/">
 <img src="https://opengraph.githubassets.com/1/dalvineel2005/url-shortener" width="100%" alt="URL Shortener project preview"/>
 </a>
 
@@ -115,7 +115,7 @@ Architecture
 REST APIs, MVC
 
 <p align="center">
-<a href="https://short-url-umber-three.vercel.app/">
+<a href="https://short-url-one-beta.vercel.app/">
 <img src="https://img.shields.io/badge/VIEW%20CODE-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a" alt="View code"/>
 </a>
 </p>
